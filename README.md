@@ -1,5 +1,5 @@
 ## Hello There I'm Soner ✨
-### Soner obtained his Bachelor’s degree in Audiology at Hacettepe University in 2016 and received his MSc degree in Audiology & Speech and Voice Disorders from Ankara Yıldırım Beyazıt University in 2020. After obtaining his BSc, he worked as an Audiologist at a hearing aids centre in Ankara and as a research assistant at a university in Konya. For his Master’s thesis, he worked on acoustic and spectral voice characteristics of patients with OSAS. He won the scholarship which is granted by the Turkish Ministry of National Education, and he then joined the dB SPL group as a PhD student in May 2021. Besides his clinical experience, he likes to develop software and games about Audiology. For his PhD Project, he investigates the relationship between cognitive and hearing ability in different populations. (supervised by Dr. Thomas Koelewijn and prof. Dr. Deniz Başkent).
+
 ![SonerTrd's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonerTrd&theme=tokyonight&layout=compact)
 <h1>Get in Touch! 📬</h1>
 <Br>
